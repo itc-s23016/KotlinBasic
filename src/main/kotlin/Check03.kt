@@ -25,5 +25,5 @@ fun main(args: Array<String>) {
         else -> "負け"
     }
 
-    println("CPu: ${cpu + 1} --- $judge")
+    println("CPU: ${cpu + 1} --- $judge")
 }
